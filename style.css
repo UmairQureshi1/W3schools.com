@@ -1,0 +1,416 @@
+
+ul.nav{
+background-color:#4CAF50;
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+width:100%;
+ box-shadow: 6px 4px 18px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ position: -webkit-sticky;
+ position: sticky;
+ top: 0;
+
+}
+ul li.lif,lif2{
+font-size:20px;
+margin-top:8px;
+margin-bottom:14px;
+padding-left:20px;
+
+}
+ul li.lif2{
+padding:20px;
+}
+ul.nav2 li a{
+
+	padding: 4px 52px 4px 20px;
+	display: block;
+    text-align:left;
+    color: #000;
+    text-decoration: none;
+	background-color:#ffffff;
+}
+.nav2 li a:hover{
+background-color:#cfcdc9;
+
+}
+ul.nav2 li
+{
+text-align:left;
+font-size:19px;
+text-family:Times New Romans;
+}
+
+
+ul.nav2{
+    
+    list-style-type:none;
+    margin: 0;
+    padding:0;
+	
+
+    overflow: auto;
+	
+}
+
+
+li{
+float:left;
+}
+li a:hover
+{
+background-color:#ffffff;
+color:#000000;
+}
+
+ li a{
+
+padding:24px 34px;
+background-color: #4CAF50;
+color:#f1f1f1;
+}
+
+
+#com{
+color:green;
+}
+p:first-child{
+display:inline;
+font-weight:bold;
+font-size:36px;
+diplay:inline;
+cursor:pointer;
+float:none;
+color:#505050
+
+}
+#search{
+
+padding:22px;
+color:#ffffff;
+font-size:19px;
+
+
+}
+#world{
+
+padding:22px;
+color:#ffffff;
+font-size:19px;
+
+
+}
+#world:hover,#search:hover{
+background-color:#ffffff;
+color:black;
+}
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+	 font-family:  Arial, Helvetica, sans-serif;
+	 font-weight:normal;
+    padding: 25px 10px 20px 18px;
+	letter-spacing:3px;
+    background-color: inherit;
+   
+    margin: 0;
+	position:center;
+	
+}
+.dropdown .dropbtn:hover{
+background-color:#ffffff;
+color:black;
+cursor:pointer;
+}
+p{
+display:inline;
+float:right;
+letter-spacing:2px;
+word-spacing:2px;
+margin-left:6px;
+}
+.same1,same2,same3{
+display:inline-block;
+float:left;
+margin:0;
+
+}
+.same1{
+margin-top:0;
+box-shadow:0 0.5px 1px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+width:17%;
+height:3969px;
+
+}
+.same2{
+width:83%;
+float:left;
+
+}
+.same3
+{
+width:83%;
+float:right;
+margin-top:50px;
+}
+
+#b3:hover{
+ box-shadow: 6px 4px 18px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.three{
+font-size:36px;
+}
+.button2:hover,button:hover{
+ background-color:rgb(160, 160, 160);
+ color:black;
+}
+.button:hover{
+ background-color:rgb(160, 160, 160);
+ color:black;
+}
+#b3{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 16px;
+    margin: 0 1px 0 14px;
+	float:left;
+    cursor: pointer;
+}
+.b444{
+
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 16px;
+    margin: 0 1px 0 14px;
+	float:left;
+    cursor: pointer;
+}
+.b444:hover
+{
+background-color:white;
+color:black;
+border:2px solid white;
+}
+.button {
+   background-color:rgb(105, 105, 105);
+    border: none;
+    color: white;
+	
+    padding: 12px 18px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 15px;
+    margin: 1px 4px 6px 110px;
+    cursor: pointer;
+}
+.button2{
+
+	   background-color:rgb(105, 105, 105);
+    border: none;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 15px;
+ 
+    cursor: pointer;
+	
+}
+h{
+color:rgb(70,70,80);
+    font-size: 5em;
+	  font-family: Arial, sans-serif;
+ margin:20px 0 0 170px;
+    font-weight: normal;
+	letter-spacing:2px;
+	
+}
+#d3,h2{
+    
+font-size:38px;
+
+}
+
+#d3
+{
+
+ font-family:  Arial, Helvetica, sans-serif;
+box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.11);
+padding:17px 17px 30px 17px;
+font-size:105%;
+font-weight:normal;
+margin:42px 25px 32px 23px;
+float:left;
+display:block-inline;
+text-align:center;
+border:6px solid white;
+background-color:white;
+
+}
+#dw3{
+ font-family:  Arial, Helvetica, sans-serif;
+padding:12px 12px 20px 12px;
+font-size:95%;
+margin:13px 22px 30px 22px;
+float:left;
+display:block-inline;
+text-align:center;
+border:1px solid white;
+font-weight:normal;
+}
+#html1{
+font-size:12px;
+padding:20px;
+border:1px solid white;
+
+}
+.od1
+{
+position: absolute;
+    top: 112px;
+    right: 9px;
+    width: 465px;
+    height: 340px;
+	background-color:#73AD21;
+    border: 8px solid rgb(110, 110, 110);
+	border-radius:6px;
+	z-index:99;
+	
+
+}
+.od2
+{
+position: absolute;
+    top: 128px;
+    right: 257px;
+    width: 465px;
+    height: 345px;
+ border:8px solid rgb(110, 110, 110);
+
+	border-radius:6px;
+	background-color:#77BD27;
+	z-index:100;
+
+}
+.od3
+{
+position: absolute;
+    top: 112px;
+    left: 9px;
+    width: 465px;
+    height: 340px;
+    border: 8px solid rgb(110, 110, 110);
+	border-radius:6px;
+	background-color:#37AA28;
+	z-index:99;
+
+}
+
+.container
+{
+position:relative;
+margin:auto;
+float:center;
+width:90%;
+height:540px;
+border:4px solid grren;
+}
+.whitesec
+{
+width:83%;
+float:right;
+
+height:190px;
+margin:36px 0 0 0;
+}
+.seclast
+{
+width:83%;
+float:right;
+height:560px;
+background-color:black;
+position:relative;
+
+
+}
+.center
+{
+position:relative;
+display:block;
+margin-left:15%;
+margin-right:15%;
+width:67%;
+height:100%;
+}
+.oimg
+{
+font-family: Arial, Helvetica, sans-serif;letter-spacing:1px;
+position:absolute;
+top:0;
+width:67%;
+left:15%;
+right:158px;
+text-align:center;
+background: rgba(0, 0, 0, 0.7);
+color:white;
+}
+.btnlast
+{
+position:absolute;
+bottom:265px;
+right:42.5%;
+
+}
+#p1{
+    font-size: 1.4em;
+	  font-family: Arial, sans-serif;
+margin-right:160px;
+    font-weight: normal;
+	letter-spacing:2px;
+}
+#brown{
+color:lighterbrown;
+}
+#blue{
+color:blue;
+}
+.lastdiv
+{
+position:relative;
+width:83%;
+float:right;
+height:332px;
+background-color:rgb(120,120,120);
+}
+.btnrow
+{
+display:inline-block;
+float:left;
+position:absolute;
+top:46px;
+left:27px;
+}
+#red{
+color:red;
+}
+#b3:after{
+
+    content: ' \003E';
+    font-size:13px;
+
+}
